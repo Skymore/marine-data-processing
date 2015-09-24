@@ -21,3 +21,5 @@
 'enable print C:\exam\1.gmf'
 'print'
 'disable'
+
+*还有一个要求是把3月份风场数据输出到nc文件，不会。
